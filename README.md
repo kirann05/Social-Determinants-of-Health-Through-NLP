@@ -1,7 +1,4 @@
 # Social-Determinants-of-Health-Through-NLP
-Here's a detailed description you can use for your GitHub repository on the *Social Determinants of Health (SDOH) Extraction* project:
-
----
 
 # **TweetNLP and Social Determinants of Health (SDOH) Extraction**
 
